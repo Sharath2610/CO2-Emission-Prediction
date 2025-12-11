@@ -132,12 +132,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots (Optional)
-
-> Will be added after deployment.
-
----
-
 ## 👨‍💻 Author
 
 **Sharath R**  
