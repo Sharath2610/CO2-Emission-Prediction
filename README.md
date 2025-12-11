@@ -136,6 +136,6 @@ streamlit run app.py
 
 **Sharath R**  
 📍 India  
-_Data Science Portfolio Project_
+_Data Science Project_
 
 ---
